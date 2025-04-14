@@ -1,6 +1,6 @@
 # 초등 영어 발음 채점 서비스
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/placeholder-image-url" width="80%" alt="math-labeling-pipeline"/>
+  <img src="https://github.com/user-attachments/assets/164f3dff-54f0-45bf-9044-65054cb1c893" width="80%" alt="math-labeling-pipeline"/>
 </p>
 
 ## Skills
