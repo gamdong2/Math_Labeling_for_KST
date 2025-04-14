@@ -1,0 +1,8 @@
+[bboxs]
+0 0.479933 0.023592 0.956522 0.038052
+0 0.480769 0.069254 0.958194 0.038052
+0 0.029264 0.114916 0.055184 0.031963
+0 0.478261 0.283866 0.498328 0.263318
+
+[question_text]
+정은이와 예리가 가지고 있던 식혜의 양과 마신 식혜의 양을 표로 나타내었습니다. 식혜가 더 많이 남은 사람은 누구인가요?  <table border> <tbody>   <tr align="center">     <td align="center"></td>     <td>정은</td>     <td>예리</td>   </tr>   <tr align="center">     <td>처음 식혜의 양</td>     <td>$\frac{6}{7}L$</td>     <td>$1L$</td>   </tr>   <tr align="center">     <td>마신 식혜의 양</td>     <td>$\frac{2}{7}L$</td>     <td>$\frac{4}{7}L$</td>   </tr> </tbody> </table>

@@ -1,0 +1,7 @@
+[bboxs]
+0 0.490803 0.074163 0.978261 0.119617
+0 0.411371 0.217703 0.819398 0.119617
+0 0.502508 0.555024 0.202341 0.191388
+
+[question_text]
+비례식 $\bigcirc : \bigstar=6 : 5$를 만족하는 자연수 $\bigcirc$와 $\bigstar$이 있습니다. $\square$에 들어갈 수 있는 가장 작은 자연수를 구해 보세요. $\frac{\bigcirc}{\bigstar}\div\frac{\bigstar}{\bigcirc}<\square$

@@ -1,0 +1,7 @@
+[bboxs]
+0 0.494147 0.026541 0.974916 0.042808
+0 0.413043 0.077911 0.809365 0.042808
+0 0.499264 0.200120 0.563545 0.148973
+
+[question_text]
+태현이와 채영이가 각도기를 이용하여 삼각형의 세 각의 크기를 재었습니다. 각도를 잘못 잰 사람은 누구인가요? $\\$<table border> <thead>   <tr>     <th>태현</th>     <th>$55\degree$,$70\degree$,$50\degree$</th>   </tr> </thead> <tbody>   <tr>     <td>채영</td>     <td>$140\degree$,$25\degree$,$15\degree$</td>   </tr> </tbody> </table>

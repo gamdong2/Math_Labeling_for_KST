@@ -1,0 +1,6 @@
+[bboxs]
+0 0.443144 0.069820 0.882943 0.112613
+0 0.500836 0.522523 0.192308 0.495495
+
+[question_text]
+다음 계산에서 ㉠이 실제로 나타내는 수를 구해 보세요. $\begin{array}{r}  \overset 7{\cancel8} \overset {㉠}{\cancel3} \overset {10} 5 \\ -3~4~8 \\ \hline 4~8~7\end{array}$

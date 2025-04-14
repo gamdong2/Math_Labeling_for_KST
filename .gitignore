@@ -1,0 +1,9 @@
+# Conda virtual environment
+.env/
+.venv/
+*.conda
+.env
+*.png
+*.json
+__pycache__/
+final_model_1/

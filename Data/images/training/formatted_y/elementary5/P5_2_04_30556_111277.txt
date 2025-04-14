@@ -1,0 +1,10 @@
+[bboxs]
+0 0.275084 0.085973 0.540134 0.162896
+0 0.500000 0.644796 0.371237 0.683258
+1 0.440635 0.269231 0.252508 0.104072
+
+[question_text]
+$\square$ 안에 알맞은 수를 써넣으세요. <table border> <tbody> <tr> <td>$7$</td> <td>$3.4$</td> <td>$\square$</td> </tr> <tr> <td>$8$</td> <td>$0.21$</td> <td>$\square$</td> </tr> </tbody> </table>
+
+[figure_text]
+null

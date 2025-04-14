@@ -1,0 +1,6 @@
+[bboxs]
+0 0.273411 0.120253 0.543478 0.227848
+0 0.499164 0.645570 0.252508 0.632911
+
+[question_text]
+$\square$안에 알맞은 수를 써넣으세요. $\begin{array} {r}2\square\\ \times ~7~0\\ \hline \square~8~9~0\\  \end{array}$

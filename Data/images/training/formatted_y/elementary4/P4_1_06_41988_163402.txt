@@ -1,0 +1,6 @@
+[bboxs]
+0 0.474916 0.049363 0.946488 0.079618
+0 0.499164 0.493631 0.439799 0.732484
+
+[question_text]
+규칙적인 수의 배열에서 규칙을 찾아 $●\times▲$를 구해 보세요. <table border style="undefined;table-layout: fixed; width: 312px"> <colgroup> <col style="width: 55.2px"> <col style="width: 55.2px"> <col style="width: 54.2px"> <col style="width: 55.2px"> <col style="width: 51.2px"> <col style="width: 41.2px"> </colgroup> <tbody>   <tr>     <td></td>     <td>$12$</td>     <td>$23$</td>     <td>$34$</td>     <td>$45$</td>     <td>$55$</td>   </tr>   <tr>     <td>$66$</td>     <td>$5$</td>     <td>$4$</td>     <td>$3$</td>     <td>$2$</td>     <td>$1$</td>   </tr>   <tr>     <td>$77$</td>     <td>$6$</td>     <td>$5$</td>     <td>$●$</td>     <td>$3$</td>     <td>$2$</td>   </tr>   <tr>     <td>$88$</td>     <td>$7$</td>     <td>$6$</td>     <td>$5$</td>     <td>$4$</td>     <td>$3$</td>   </tr>   <tr>     <td>$99$</td>     <td>$8$</td>     <td>$7$</td>     <td>$6$</td>     <td>$▲$</td>     <td>$4$</td>   </tr> </tbody> </table>

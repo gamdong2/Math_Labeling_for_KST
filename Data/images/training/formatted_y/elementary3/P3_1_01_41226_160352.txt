@@ -1,0 +1,6 @@
+[bboxs]
+0 0.448161 0.070136 0.892977 0.113122
+0 0.500000 0.490950 0.635452 0.529412
+
+[question_text]
+수 배열표에서 $㉮$와 $㉯$에 알맞은 수의 합을 구해 보세요. <table border> <tbody> <tr> <td>$156$</td> <td>$160$</td> <td>$164$</td> <td>$168$</td> <td>$172$</td> <td>$176$</td> <td></td> </tr> <tr> <td>$256$</td> <td>$260$</td> <td>$264$</td> <td></td> <td></td> <td></td> </tr> <tr> <td>$356$</td> <td>$360$</td> <td></td> <td>$㉮$</td> <td></td> <td></td> </tr> <tr> <td>$456$</td> <td></td> <td></td> <td></td> <td>$㉯$</td> <td></td> </tr> </tbody> </table>

@@ -1,0 +1,6 @@
+[bboxs]
+0 0.240803 0.064854 0.478261 0.104603
+0 0.500836 0.487448 0.215719 0.556485
+
+[question_text]
+$★$에 알맞은 수를 구해 보세요. $\begin{array} {r} \square \\ 90 {\overline{{\big)} 4~★1}} \\ \underline{3~6~\square} \\ 8~\square \end{array}$

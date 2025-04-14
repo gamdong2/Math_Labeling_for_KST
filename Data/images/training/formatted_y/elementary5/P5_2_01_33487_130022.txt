@@ -1,0 +1,10 @@
+[bboxs]
+0 0.479097 0.019897 0.954849 0.032092
+0 0.330268 0.058408 0.657191 0.032092
+0 0.501505 0.109114 0.369565 0.041078
+0 0.498997 0.225289 0.842809 0.168164
+0 0.501505 0.338896 0.359532 0.035944
+0 0.499833 0.450578 0.964883 0.169448
+
+[question_text]
+요일별 미세 먼지 농도를 조사하여 나타낸 표입니다. 일주일 동안 '나쁨'인 날은 며칠인지 구해 보세요. 요일별 미세 먼지 농도 <table border style="undefined;table-layout: fixed; width: 439px"> <colgroup> <col style="width: 101.2px"> <col style="width: 54.2px"> <col style="width: 53.2px"> <col style="width: 54.2px"> <col style="width: 50.2px"> <col style="width: 40.2px"> <col style="width: 46.2px"> <col style="width: 39.2px"> </colgroup> <tbody>   <tr>     <td>요일</td>     <td>월</td>     <td>화</td>     <td>수</td>     <td>목</td>     <td>금</td>     <td>토</td>     <td>일</td>   </tr>   <tr>     <td>미세 먼지 농도 (마이크로그램)</td>     <td>$80$</td>     <td>$72$</td>     <td>$83$</td>     <td>$28$</td>     <td>$127$</td>     <td>$161$</td>     <td>$31$</td>   </tr> </tbody> </table> 미세 먼지 농도 기준표 <table border style="undefined;table-layout: fixed; width: 308px"> <colgroup> <col style="width: 100.2px"> <col style="width: 53.2px"> <col style="width: 52.2px"> <col style="width: 53.2px"> <col style="width: 60.2px"> </colgroup> <tbody>   <tr>     <td>구분</td>     <td>좋음</td>     <td>보통</td>     <td>나쁨</td>     <td>매우 나쁨</td>   </tr>   <tr>     <td>미세 먼지 농도 (마이크로그램)</td>     <td>$30$ 이하</td>     <td>$31$ 이상 $80$ 이하</td>     <td>$81$ 이상 $150$ 이하</td>     <td>$151$ 이상</td>   </tr> </tbody> </table>

@@ -1,0 +1,8 @@
+[bboxs]
+0 0.494147 0.022039 0.984950 0.035813
+0 0.493311 0.062672 0.983278 0.034435
+0 0.351171 0.103994 0.698997 0.034435
+0 0.503737 0.319601 0.530418 0.342204
+
+[question_text]
+수영이가 한 달 동안 매주 월요일, 수요일, 금요일에 윗몸 말아 올리기를 각각 $40$ 번씩 했습니다. 수영이가 한 달 동안 윗몸 말아 올리기를 모두 몇 번 했는지 구해 보세요. <table border> <tbody> <tr> <td>일</td> <td>월</td> <td>화</td> <td>수</td> <td>목</td> <td>금</td> <td>토</td> </tr> <tr> <td>$\quad$</td> <td>$\quad$</td> <td>$\quad$</td> <td>$\quad$</td> <td>$1$</td> <td>$2$</td> <td>$3$</td> </tr> <tr> <td>$4$</td> <td>$5$</td> <td>$6$</td> <td>$7$</td> <td>$8$</td> <td>$9$</td> <td>$10$</td> </tr> <tr> <td>$11$</td> <td>$12$</td> <td>$13$</td> <td>$14$</td> <td>$15$</td> <td>$16$</td> <td>$17$</td> </tr> <tr> <td>$18$</td> <td>$19$</td> <td>$20$</td> <td>$21$</td> <td>$22$</td> <td>$23$</td> <td>$24$</td> </tr> <tr> <td>$25$</td> <td>$26$</td> <td>$27$</td> <td>$28$</td> <td>$\quad$</td> <td>$\quad$</td> <td>$\quad$</td> </tr> </tbody> </table>

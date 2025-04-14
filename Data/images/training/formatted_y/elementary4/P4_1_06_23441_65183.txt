@@ -1,0 +1,9 @@
+[bboxs]
+0 0.380435 0.029319 0.757525 0.049128
+0 0.138796 0.694929 0.086957 0.045959
+0 0.415552 0.763867 0.680602 0.047544
+0 0.489130 0.828051 0.827759 0.045959
+0 0.166388 0.874010 0.122074 0.039620
+
+[question_text]
+조건  $\bullet$ $\square$안에 있는 $8$개의 수 중의 하나입니다.  $\bullet$ $\square$안에 있는 $8$개의 수의 합을 $6$으로 나눈 몫과 같습니다. 달력을 보고 조건을 만족하는 수를 구해 보세요. <table border> <tbody> <tr> <td colspan=7 align="center">$\bigcirc$월</td> </tr> <tr> <td>일</td> <td>월</td> <td>화</td> <td>수</td> <td>목</td> <td>금</td> <td>토</td> </tr> <tr> <td>$1$</td> <td>$2$</td> <td>$3$</td> <td>$4$</td> <td>$5$</td> <td>$6$</td> <td>$7$</td> </tr> <tr> <td>$8$</td> <td>$9$</td> <td>$10$</td> <td>$11$</td> <td>$12$</td> <td>$13$</td> <td>$14$</td> </tr> <tr> <td>$15$</td> <td>$16$</td> <td>$17$</td> <td>$18$</td> <td>$19$</td> <td>$20$</td> <td>$21$</td> </tr> <tr> <td>$22$</td> <td>$23$</td> <td>$24$</td> <td>$25$</td> <td>$26$</td> <td>$27$</td> <td>$28$</td> </tr> <tr> <td>$29$</td> <td>$30$</td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr> </tbody> </table>

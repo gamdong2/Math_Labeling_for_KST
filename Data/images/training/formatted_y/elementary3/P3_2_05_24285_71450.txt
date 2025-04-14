@@ -1,0 +1,6 @@
+[bboxs]
+0 0.482441 0.066810 0.961538 0.107759
+0 0.499164 0.487069 0.617057 0.629310
+
+[question_text]
+소진이와 재우가 마신 물의 양은 모두 몇 $L$인지 구해 보세요. <table border> <tbody> <tr> <td> </td> <td>소진</td> <td>재우</td> </tr> <tr> <td>마시기 전</td> <td>$3L$</td> <td>$2L 650mL$</td> </tr> <tr> <td>마신 전</td> <td>$2 L 350 mL$</td> <td>$2 L 300 mL$</td> </tr> </tbody> </table>

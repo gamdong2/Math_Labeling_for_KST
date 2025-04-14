@@ -1,0 +1,6 @@
+[bboxs]
+0 0.240803 0.064854 0.478261 0.104603
+0 0.500836 0.487448 0.215719 0.556485
+
+[question_text]
+$\bigstar$에 알맞은 수를 구해 보세요. $\begin{array} {r} \square \\ 80 {\overline{{\big)} 3~ \bigstar~ 2}} \\ \underline{3~2~\square} \\ 5~ \square \end{array}$

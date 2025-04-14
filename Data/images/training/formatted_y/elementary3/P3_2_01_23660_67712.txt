@@ -1,0 +1,6 @@
+[bboxs]
+0 0.275251 0.126928 0.545151 0.248366
+0 0.502676 0.658366 0.190635 0.660131
+
+[question_text]
+$\square$ 안에 알맞은 수를 넣으세요. $ \begin{array} {r} \square \\ \times~~\square ~3\\ \hline 3~7~8 \end{array} $

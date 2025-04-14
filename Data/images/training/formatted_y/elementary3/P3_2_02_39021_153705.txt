@@ -1,0 +1,6 @@
+[bboxs]
+0 0.406355 0.069343 0.809365 0.131387
+0 0.500000 0.583942 0.247492 0.708029
+
+[question_text]
+나눗셈식에서  안에 알맞은 숫자를 써넣으세요. $\begin{array} {r} 4\square \\ \square {\overline{{\big)} 2\square4}} \\ \underline{\square8}~~ \\ 14\\\square\square\\\hline0 \end{array}$

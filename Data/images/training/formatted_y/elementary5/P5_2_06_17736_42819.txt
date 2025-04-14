@@ -1,0 +1,6 @@
+[bboxs]
+0 0.500167 0.053201 0.988294 0.082317
+0 0.267726 0.141616 0.523411 0.082317
+
+[question_text]
+호수 $3$곳의 물고기 수를 조사하여 나타낸 표입니다. 각 연도의 물고기 수의 평균을 구해 보세요. 연도별 물고기 수  <table border> <tbody> <tr> <td>호수</td> <td>가</td> <td>나</td> <td>다</td> </tr> <tr> <td align = "center">$2018$년 물고기 수(마리)</td> <td align = "center">$2945$</td> <td align = "center">$1987$</td> <td align = "center">$2091$</td> </tr> <tr> <td align = "center">$2019$년 물고기 수 (마리)</td> <td align = "center">$2465$</td> <td align = "center">$1897$</td> <td align = "center">$3099$</td> </tr> </tbody> </table>

@@ -1,0 +1,9 @@
+[bboxs]
+0 0.492475 0.022464 0.981605 0.036232
+0 0.493311 0.065942 0.979933 0.036232
+0 0.467391 0.109420 0.928094 0.036232
+0 0.500000 0.168841 0.745819 0.036232
+0 0.499164 0.274638 0.730769 0.140580
+
+[question_text]
+경훈이네 모둠 학생들의 왕복 오래달리기 기록을 나타낸 표입니다. 이 모둠에서는 $2명$만 $1등급$을 받게 되었습니다. 기록이 몇 회 이상이 되어야 $1등급$을 받을 수 있는지 구해 보세요. 경훈이네 모둠 학생들의 왕복 오래달리기 기록 <table border> <tbody> <tr> <td align="center">이름</td> <td align="center">경훈</td> <td align="center">도윤</td> <td align="center">하준</td> <td align="center">주원</td> <td align="center">세형</td> </tr> <tr> <td align="center">횟수 (회)</td> <td align="center">$95$</td> <td align="center">$102$</td> <td align="center">$100$</td> <td align="center">$89$</td> <td align="center">$99$</td> </tr>  </tbody> </table>

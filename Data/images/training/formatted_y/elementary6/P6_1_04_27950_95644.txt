@@ -1,0 +1,8 @@
+[bboxs]
+0 0.498328 0.054196 0.993311 0.087413
+0 0.452341 0.159091 0.901338 0.087413
+0 0.499164 0.496503 0.874582 0.503497
+0 0.448997 0.889860 0.854515 0.122378
+
+[question_text]
+연비는 자동차의 사용한 연료에 대한 주행 거리의 비율입니다. 두 자동차 중 연비가 더 높은 것은 어느 것인지 고르세요. <style type="text/css"> .tg  {border-collapse:collapse;border-spacing:0;} .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;   overflow:hidden;padding:10px 5px;word-break:normal;} .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;} .tg .tg-baqh{text-align:center;vertical-align:top} .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top} .tg .tg-0lax{text-align:left;vertical-align:top} </style> <table class="tg"> <thead>   <tr>     <th class="tg-0pky"></th>     <th class="tg-0lax">우경이네자동차</th>     <th class="tg-0lax">은진이네자동차</th>   </tr> </thead> <tbody>   <tr>     <td class="tg-baqh">연료($L$)</td>     <td class="tg-baqh">$24$</td>     <td class="tg-baqh">$25$</td>   </tr>   <tr>     <td class="tg-0lax">주행거리($KM$)</td>     <td class="tg-baqh">$228$</td>     <td class="tg-baqh">$265$</td>   </tr> </tbody> </table>  ○은진이네 자동차 ○은진이네자동차

@@ -1,0 +1,8 @@
+[bboxs]
+0 0.429766 0.021709 0.856187 0.035014
+0 0.477425 0.158263 0.734114 0.106443
+0 0.393813 0.321429 0.566890 0.091036
+0 0.499164 0.430672 0.777592 0.063025
+
+[question_text]
+다음 중 잘못 계산한 것을 찾아 바르게 계산해 보세요. ㄱ.$2\frac{1}{4}\times5=\frac{9}{4}\times5=\frac{9\times5}{4\times5}=\frac{45}{20}=2\frac{\overset{1}{\cancel{5}}}{\underset{4}{\cancel{20}}}=2\frac{1}{4}$ ㄴ.$ 1\frac{3}{22} \times 8 = \frac{25}{\underset{11}{\cancel{22}}} \times \overset{4}{\cancel{8}} =\frac{100}{11} =9\frac{1}{11}$ ㄷ. $2\frac{1}{8} \times 5 = (2\times5)+   (\frac{1}{8} \times5)=10+ \frac{5}{8}= 10\frac{5}{8}$

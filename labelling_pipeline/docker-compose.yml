@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  yolo-api:
+    build:
+      context: ./yolo_api  # YOLO API의 Dockerfile이 있는 디렉토리
+    ports:
+      - "8000:8000"
+    networks:
+      - labelling_network
+
+  ocr-api:
+    build:
+      context: ./ocr_api  # OCR API의 Dockerfile이 있는 디렉토리
+    ports:
+      - "8001:8001"
+    networks:
+      - labelling_network
+
+  llm-api:
+    build:
+      context: ./llm_api  # LLM API의 Dockerfile이 있는 디렉토리
+    ports:
+      - "8002:8002"
+    networks:
+      - labelling_network
+
+  pipeline:
+    build:
+      context: ./pipeline  # main.py가 있는 디렉토리
+    command: python main.py
+    networks:
+      - labelling_network
+
+networks:
+  labelling_network:
+    driver: bridge

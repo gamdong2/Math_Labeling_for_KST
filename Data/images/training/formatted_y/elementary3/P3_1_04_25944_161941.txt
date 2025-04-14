@@ -1,0 +1,6 @@
+[bboxs]
+0 0.260033 0.047546 0.516722 0.076687
+0 0.500000 0.259202 0.130435 0.230061
+
+[question_text]
+$\square$와 $☆$의 값의 합을 구해 보세요.  $\begin{array} {r}☆4\\ \times 2\\ \hline 12\square \end{array} $

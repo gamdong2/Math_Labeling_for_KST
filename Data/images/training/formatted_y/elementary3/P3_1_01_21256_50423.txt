@@ -1,0 +1,6 @@
+[bboxs]
+0 0.443144 0.069820 0.882943 0.112613
+0 0.497492 0.524775 0.192308 0.500000
+
+[question_text]
+다음 계산에서 ㉠이 실제로 나타내는 수를 구해 보세요. $\\$ $ \begin{array}{r} \overset8{\cancel9}\overset{\boxed㉠}{\cancel2}\overset{10}8\\ -~549\\ \hline 379 \end{array} $

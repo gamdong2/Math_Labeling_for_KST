@@ -1,0 +1,6 @@
+[bboxs]
+0 0.290134 0.090643 0.576923 0.146199
+0 0.499164 0.488304 0.603679 0.508772
+
+[question_text]
+$\star+\square+\diamond$는 얼마인지 구해 보세요.  <table border> <tbody> <tr> <td>읽기</td> <td>영 점 삼</td> <td>영 점 육</td> <td>영 점 구</td> </tr> <tr> <td>쓰기</td> <td>0.$\star$</td> <td>0.$\square$</td> <td>0.$\diamond$</td> </tr>  </tbody> </table>

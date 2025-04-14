@@ -1,0 +1,8 @@
+[bboxs]
+0 0.429766 0.022409 0.856187 0.036415
+0 0.495819 0.158263 0.734114 0.106443
+0 0.499164 0.276611 0.737458 0.063025
+0 0.440635 0.404062 0.623746 0.088235
+
+[question_text]
+다음 중 잘못 계산한 것을 찾아 바르게 계산해 보세요. ㄱ.$1\frac{2}{7}\times4=\frac{9}{7}\times4=\frac{9\times4}{7\times4}=\frac{36}{28}=1\frac{\overset{2}{\cancel8}}{\underset{7}{\cancel{28}}}=1\frac{2}{7}$ ㄴ.$2\frac{1}{4}\times3=(2\times3)+(\frac{1}{4}\times3)=6+\frac{3}{4}=6\frac{3}{4}$ ㄷ.$2\frac{5}{22}\times10=\frac{49}{\underset{11}{\cancel22}}\times\overset{5}{\cancel{10}}=\frac{245}{11}=22\frac{3}{11}$

@@ -1,0 +1,8 @@
+[bboxs]
+0 0.429766 0.025974 0.856187 0.042208
+0 0.498328 0.183442 0.769231 0.123377
+0 0.399666 0.372565 0.568562 0.105519
+0 0.484950 0.499188 0.739130 0.073052
+
+[question_text]
+다음 중 잘못 계산한 것을 찾아 바르게 계산해 보세요. ㄱ.$3\frac{3}{5} \times 2 = \frac{18}{5} \times 2 =\frac{18\times2}{5\times2} = \frac{36}{10} = 3\frac{\overset{3}{\cancel6}}{\underset{5}{\cancel{10}}} = 3\frac{3}{5}$  ㄴ.$3\frac{1}{14} \times 8 = \frac{43}{\underset{7}{\cancel{14}}} \times \overset{4}{\cancel8} = \frac{172}{7} = 24\frac{4}{7}$ ㄷ.$2\frac{1}{7} \times 3 = (2\times3) + (\frac{1}{7} \times 3) = 6+\frac{3}{7} = 6\frac{3}{7}$

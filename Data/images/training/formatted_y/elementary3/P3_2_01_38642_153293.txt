@@ -1,0 +1,7 @@
+[bboxs]
+0 0.489130 0.066524 0.974916 0.107296
+0 0.328595 0.195279 0.653846 0.107296
+0 0.498495 0.546867 0.814381 0.532189
+
+[question_text]
+다음은 어느 농장에 있는 동물의 수입니다. 이 농장에 있는 동물의 다리는 모두 몇 개인지 구해 보세요. <table border style="undefined;table-layout: fixed; width: 256px"> <colgroup> <col style="width: 53.2px"> <col style="width: 52.2px"> <col style="width: 51.2px"> <col style="width: 50.2px"> <col style="width: 49.2px"> </colgroup> <tbody>   <tr>     <td>동물</td>     <td>고양이</td>     <td>닭</td>     <td>강아지</td>     <td>오리</td>   </tr>   <tr>     <td>동물의 수 (마리)</td>     <td>$57$</td>     <td>$128$</td>     <td>$52$</td>     <td>$134$</td>   </tr> </tbody> </table>

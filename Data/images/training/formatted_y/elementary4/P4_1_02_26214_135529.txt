@@ -1,0 +1,7 @@
+[bboxs]
+0 0.494983 0.033623 0.983278 0.054230
+0 0.387960 0.098698 0.772575 0.054230
+0 0.499164 0.246204 0.556856 0.184382
+
+[question_text]
+민수와 상윤이가 각도기를 이용하여 삼각형의 세 각의 크기를 재었습니다. 각도를 잘못 잰 사람은 누구인가요? <table border> <caption></caption> <tbody> <tr> <td>민수</td> <td>$70\degree$, $50\degree$, $70\degree$</td> </tr> <tr> <td>상윤</td> <td>$105\degree$, $35\degree$, $40\degree$</td> </tr> </tbody> </table>

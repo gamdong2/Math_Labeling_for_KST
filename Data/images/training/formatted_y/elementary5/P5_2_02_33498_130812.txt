@@ -1,0 +1,8 @@
+[bboxs]
+0 0.429766 0.021709 0.856187 0.035014
+0 0.423913 0.168067 0.607023 0.089636
+0 0.499164 0.276611 0.754181 0.063025
+0 0.487458 0.393557 0.734114 0.106443
+
+[question_text]
+다음 중 잘못 계산한 것을 찾아 바르게 계산해 보세요. ㄱ.$2\frac{4}{15}\times 24= \frac{34}{\underset{5}{\cancel {15}}}\times \overset{8}{\cancel{24}}= \frac{272}{5}= 54\frac{2}{5} $  ㄴ.$1\frac{3}{8}\times 5=(1\times5)+( \frac{3}{8}\times 5)=5+ \frac{15}{8}= 6\frac{7}{8} $ ㄷ.$1\frac{1}{4}\times 7=\frac{5}{4}\times 7= \frac{5\times7}{4\times7}= \frac{35}{28}= 1\frac{\overset{1}{\cancel{7}}}{\underset{4}{\cancel{28}}}= 1\frac{1}{4} $

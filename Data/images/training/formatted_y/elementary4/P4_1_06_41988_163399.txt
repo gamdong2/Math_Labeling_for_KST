@@ -1,0 +1,6 @@
+[bboxs]
+0 0.474916 0.049363 0.946488 0.079618
+0 0.501003 0.498153 0.367893 0.742038
+
+[question_text]
+규칙적인 수의 배열에서 규칙을 찾아 $●\times■$를 구해 보세요. <table border> <tbody> <tr> <td></td> <td>$60$</td> <td>$70$</td> <td>$80$</td> <td>$90$</td> </tr> <tr> <td>$11$</td> <td>$4$</td> <td>$5$</td> <td>$6$</td> <td>$7$</td> </tr> <tr> <td>$22$</td> <td>$3$</td> <td>$4$</td> <td>$5$</td> <td>$6$</td> </tr> <tr> <td>$33$</td> <td>$●$</td> <td>$3$</td> <td>$4$</td> <td>$5$</td> </tr> <tr> <td>$44$</td> <td>$1$</td> <td>$2$</td> <td>$3$</td> <td>$■$</td> </tr> </tbody> </table>

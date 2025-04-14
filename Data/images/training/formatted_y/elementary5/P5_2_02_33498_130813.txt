@@ -1,0 +1,8 @@
+[bboxs]
+0 0.429766 0.021709 0.856187 0.035014
+0 0.484114 0.122549 0.740803 0.063025
+0 0.499164 0.240896 0.767559 0.106443
+0 0.409699 0.404062 0.588629 0.088235
+
+[question_text]
+다음 중 잘못 계산한 것을 찾아 바르게 계산해 보세요. ㄱ.$4\frac{3}{7}\times2=(4\times2)+(\frac{3}{7}\times2)=8+\frac{6}{7}=8\frac{6}{7}$ ㄴ.$2\frac{3}{4}\times5=\frac{11}{4}\times5=\frac{11\times5}{4\times5}=\frac{55}{20}=2\frac{\overset{3}{\cancel{15}}}{\underset{4}{\cancel{20}}}=2\frac{3}{4}$ ㄷ.$1\frac{3}{{14}}\times21=\frac{17}{\underset{2}{\cancel{14}}}\times\overset{3}{\cancel{21}}=\frac{51}{2}=25\frac{1}{2}$

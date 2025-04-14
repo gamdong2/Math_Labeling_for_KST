@@ -1,0 +1,6 @@
+[bboxs]
+0 0.273411 0.087558 0.543478 0.165899
+0 0.500000 0.605991 0.224080 0.760369
+
+[question_text]
+$\square$안에 알맞은 수를 써넣으세요.  $\begin{array} {r}\square3\\ \times 3\square\\ \hline 2~1~5\\ 1\square~9~0\\ 1\square~0~5 \end{array}$

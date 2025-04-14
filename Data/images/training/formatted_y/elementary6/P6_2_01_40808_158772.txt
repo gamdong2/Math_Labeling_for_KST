@@ -1,0 +1,7 @@
+[bboxs]
+0 0.494147 0.078199 0.984950 0.127962
+0 0.428930 0.220379 0.854515 0.127962
+0 0.502508 0.545024 0.219064 0.180095
+
+[question_text]
+$\blacktriangle$와 $★$은 자연수입니다. 다음 식을 만족하는 $\blacktriangle$와 $★$을 $(\blacktriangle,★)$로 나타낼 때, $(\blacktriangle,★)$은 모두 몇 가지인지 구해 보세요. $\frac{15}{17}\div\frac{\blacktriangle}{17}=★$

@@ -1,0 +1,41 @@
+name: CI/CD Pipeline for labelling_pipeline
+
+on:
+  push:
+    branches:
+      - main
+      - labelling_pipeline
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 리포지토리 체크아웃
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2. SSH key 설정
+      - name: Set up SSH key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.EC2_SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H ${{ secrets.EC2_PUBLIC_IP }} >> ~/.ssh/known_hosts
+
+      # 3. EC2에 코드 배포
+      - name: Deploy to EC2
+        run: |
+          ssh -o StrictHostKeyChecking=no ubuntu@${{ secrets.EC2_PUBLIC_IP }} << 'EOF'
+            cd /home/ubuntu/labelling_pipeline
+            git pull origin main
+            # Docker 이미지 빌드 (필요한 경우)
+            docker-compose build
+            docker-compose down
+            docker-compose up -d
+          EOF
+
+      # 4. (선택 사항) EC2 서버 로그 출력 (디버깅 용도)
+      - name: Fetch logs from EC2
+        run: |
+          ssh -o StrictHostKeyChecking=no ubuntu@${{ secrets.EC2_PUBLIC_IP }} "docker-compose logs -f"

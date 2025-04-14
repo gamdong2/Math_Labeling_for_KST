@@ -1,0 +1,8 @@
+[bboxs]
+0 0.443144 0.027244 0.882943 0.044872
+0 0.478261 0.133013 0.558528 0.044872
+0 0.478261 0.181090 0.558528 0.044872
+0 0.477425 0.344551 0.262542 0.214744
+
+[question_text]
+다음을 만족하는 $\blacktriangle$와 $\blacksquare$ 는 어떤 숫자인지 구해 보세요. $\cdot \blacktriangle$와 $\blacksquare$는 서로 다른 숫자입니다. $\cdot \blacktriangle$와 $\blacksquare$의 합은 $10$보다 작습니다.  $\begin{array} {r} 0.6 \\ \blacksquare{\overline{{\big)} \blacktriangle.4}} \\ \underline{\blacktriangle~4} \\ 0 \end{array}$

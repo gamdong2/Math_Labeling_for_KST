@@ -1,0 +1,6 @@
+[bboxs]
+0 0.260033 0.031697 0.516722 0.051125
+0 0.469900 0.197342 0.190635 0.202454
+
+[question_text]
+$\square$와 $☆$의 값의 합을 구해 보세요. $ \begin{array} {r}☆3\\ \times ~~~3\\ \hline 18\square \end{array} $

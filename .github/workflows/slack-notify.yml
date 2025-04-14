@@ -1,0 +1,22 @@
+name: Notify Slack on Push
+on: push
+jobs:
+  slack_notification:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0  # 전체 Git 히스토리를 가져오도록 설정
+
+    - name: Send Slack notification
+      run: |
+        COMMIT_MESSAGE=$(git log -1 --pretty=%B)
+        AUTHOR_NAME=$(git log -1 --pretty=format:'%an')
+        FILES_CHANGED=$(git diff-tree --no-commit-id --name-only -r HEAD)
+        BRANCH_NAME=$(echo "${{ github.ref }}" | sed 's|refs/heads/||')
+        FILES_COUNT=$(echo "$FILES_CHANGED" | wc -l)
+        # Slack 메시지 포맷
+        curl -X POST -H 'Content-type: application/json' --data "{
+          \"text\":\":wave: *새로운 푸시가 도착했어요!*\n\n:technologist: *작성자:* $AUTHOR_NAME 님\n:label: *브랜치:* \`$BRANCH_NAME\`\n:file_folder: *변경된 파일 목록 ($FILES_COUNT개):*\n\`\`\`$FILES_CHANGED\`\`\`\n:speech_balloon: *커밋 메시지:*\n\`\`\`$COMMIT_MESSAGE\`\`\`\n🤖 *YOLO 성능 짱짱맨 기원*🦿\" 
+        }" ${{ secrets.SLACK_WEBHOOK_URL }}

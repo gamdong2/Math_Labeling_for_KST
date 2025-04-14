@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+boto3
+ultralytics
+python-dotenv
+Pillow
+opencv-python
+craft_text_detector
+torchvision==0.13.1
+numpy<2
+requests

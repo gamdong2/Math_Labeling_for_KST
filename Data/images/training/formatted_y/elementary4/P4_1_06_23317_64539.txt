@@ -1,0 +1,6 @@
+[bboxs]
+0 0.414716 0.129167 0.826087 0.208333
+0 0.497023 0.482417 0.856187 0.383333
+
+[question_text]
+규칙적인 수의 배열에서 $\blacksquare+\bullet$의 값을 구해 보세요. <table border> <tbody> <tr> <td>$16311$</td> <td>$16411$</td> <td>$16511$</td> <td>$\blacksquare$</td> <td>$16711$</td> <td>$16811$</td> <td>$\bullet$</td> </tr> </tbody> </table>

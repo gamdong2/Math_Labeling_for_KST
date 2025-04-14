@@ -1,0 +1,8 @@
+[bboxs]
+0 0.499164 0.067686 0.994983 0.109170
+0 0.490803 0.203057 0.978261 0.117904
+0 0.146321 0.334061 0.289298 0.117904
+0 0.498495 0.621834 0.454849 0.388646
+
+[question_text]
+탁영이네 축구팀의 $2$ 월 경기 기록입니다. 이 팀이 이긴 횟수를 구하고 승률을 소수로 나타내어 보세요. (단, 무승부를 기록한 경기는 없습니다.) <table border style="undefined;table-layout: fixed; width: 176px"> <colgroup> <col style="width: 58.2px"> <col style="width: 57.2px"> <col style="width: 60.2px"> </colgroup> <tbody>   <tr>     <td>경기 수</td>     <td>승</td>     <td>패</td>   </tr>   <tr>     <td>$24$</td>     <td>$\square$</td>     <td>$9$</td>   </tr> </tbody> </table>

@@ -1,0 +1,7 @@
+[bboxs]
+0 0.375418 0.028545 0.737458 0.046041
+0 0.499164 0.271639 0.503344 0.395948
+0 0.500000 0.560773 0.408027 0.042357
+
+[question_text]
+곱셈표를 이용하여 $㉠$$+$$㉡$의 값을 구해 보세요. <table border> <tbody> <tr> <td>$\times$</td> <td>6</td> <td>7</td> <td>8</td> <td>9</td> </tr>  <tr> <td>5</td> <td>$30$</td> <td>$35$</td> <td>$40$</td> <td>$45$</td>  </tr>  <tr> <td>6</td> <td>$36$</td> <td>$42$</td> <td>$48$</td> <td>$54$</td>  </tr>  <tr> <td>7</td> <td>$42$</td> <td>$49$</td> <td>$56$</td> <td>$63$</td>  </tr>  <tr> <td>8</td> <td>$48$</td> <td>$56$</td> <td>$64$</td> <td>$72$</td>  </tr>  <tr> <td>9</td> <td>$54$</td> <td>$63$</td> <td>$72$</td> <td>$81$</td>  </tr>  </tbody> </table> $45\div5$$=$$㉠$     $63\div9$$=$$㉡$

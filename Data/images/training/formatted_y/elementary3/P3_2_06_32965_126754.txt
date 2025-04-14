@@ -1,0 +1,12 @@
+[bboxs]
+0 0.494983 0.021468 0.986622 0.034626
+0 0.489967 0.063019 0.973244 0.034626
+0 0.501672 0.108033 0.531773 0.066482
+0 0.499164 0.202216 0.951505 0.135734
+1 0.482274 0.461219 0.755853 0.354571
+
+[question_text]
+시연이네 학교의 학생들이 좋아하는 TV 프로그램을 조사하였습니다. 시연이네 학교의 학생은 모두 몇 명인지 구해 보세요. 학생들이 좋아하는 TV 프로그램 <table border style="undefined;table-layout: fixed; width: 249px"> <colgroup> <col style="width: 78.2px"> <col style="width: 39.2px"> <col style="width: 39.2px"> <col style="width: 53.2px"> <col style="width: 39.2px"> </colgroup> <tbody>   <tr>     <td>프로그램</td>     <td>뉴스</td>     <td>만화</td>     <td>드라마</td>     <td>합계</td>   </tr>   <tr>     <td>학생 수 (명)</td>     <td></td>     <td>77</td>     <td></td>     <td></td>   </tr> </tbody> </table>
+
+[figure_text]
+null
